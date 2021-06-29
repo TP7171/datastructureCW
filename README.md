@@ -1,1 +1,2 @@
-# datastructureCW
+# ds-got
+Data Structure Coursework

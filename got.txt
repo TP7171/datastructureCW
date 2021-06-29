@@ -1,0 +1,403 @@
+Eddard Stark, man
+Eddard Stark, father, Arya Stark
+Catelyn Tully, woman
+Arya Stark, woman
+Eddard Stark, father, Robb Stark
+Eddard Stark, father, Sansa Stark
+Eddard Stark, father, Bran Stark
+Eddard Stark, father, Rickon Stark
+Catelyn Tully, mother, Arya Stark
+Catelyn Tully, mother, Robb Stark
+Catelyn Tully, mother, Sansa Stark
+Catelyn Tully, mother, Bran Stark
+Catelyn Tully, mother, Rickon Stark
+Rickard Stark, father, Eddard Stark
+Rickard Stark, father, Lyanna Stark
+Lyanna Stark, mother, Jon Snow
+Lyanna Stark, woman
+Rickard Stark, man
+Rickard Stark, father, Eddard Stark
+Rickard Stark, father, Lyanna Stark
+Rickard Stark, father, Benjen Stark
+Rickard Stark, father, Brandon Stark
+Rickard Stark, married, Lyarra Stark
+Lyarra Stark, mother, Brandon Stark
+Lyarra Stark, mother, Eddard Stark
+Lyarra Stark, mother, Lyanna Stark
+Lyarra Stark, mother, Benjen Stark
+Lyarra Stark, woman
+Brandon Stark, man
+Benjen Stark, man
+Rickon Stark, man
+Bran Stark, man
+Sansa Stark, woman
+Robb Stark, man
+Robb Stark, married, Talisa Stark
+Talisa Stark, woman
+Ramsay Bolton, married, Sansa Stark
+Maekar Targaryen,man
+Maekar Targaryen, father, Aegon V Targaryen
+Maekar Targaryen, father, Aerion Targaryen
+Aerion Targaryen, man
+Maekar Targaryen, father, Aemon Targaryen
+Aemon Targaryen, man
+Rhaegar Targaryen, father, Jon Snow
+Aegon V Targaryen, man
+Aegon V Targaryen, father, Duncan Targaryen
+Aegon V Targaryen, father, Aerys II Targaryen
+Aegon V Targaryen, father, Rhaella Targaryen
+Aegon V Targaryen, father, Dareon Targaryen
+Duncan Targaryen, man
+Aerys II Targaryen, man
+Rhaella Targaryen, woman
+Dareon Targaryen, man
+Aerys II Targaryen, father, Rhaegar Targaryen
+Aerys II Targaryen, father, Viserys Targaryen
+Aerys II Targaryen, father, Daenerys Targaryen
+Rhaella Targaryen, mother, Rhaegar Targaryen
+Rhaella Targaryen, mother, Viserys Targaryen
+Rhaella Targaryen, mother, Daenerys Targaryen
+Rhaegar Targaryen, man
+Viserys Targaryen, man
+Daenerys Targaryen, woman
+Rhaegar Targaryen, father, Rhaenys Targaryen
+Rhaegar Targaryen, father, Aegon Targaryen
+Rhaenys Targaryen, woman
+Aegon Targaryen, man
+Elia Martell, mother, Rhaenys Targaryen
+Elia Martell, mother, Aegon Targaryen
+Eddard Stark, married, Catelyn Tully
+Rhaegar Targaryen, married, Elia Martell
+Ramsay Bolton, man
+Jon Arryn, man
+Lysa Arryn, woman
+Jon Arryn, father, Robin Arryn
+Jon Arryn, married, Lysa Arryn
+Lysa Arryn, mother, Robin Arryn
+Robin Arryn, man
+Hoster Tully, man
+Brynden Tully, man
+Minisa Tully, woman
+Hoster Tully, married, Minisa Tully
+Hoster Tully, father, Catelyn Tully
+Hoster Tully, father, Edmure Tully
+Hoster Tully, father, Lysa Arryn
+Tytos Lannister, man
+Tytos Lannister, married, Jeyne Lannister
+Tytos Lannister, father, Tywin Lannister
+Jeyne Lannister, mother, Tywin Lannister
+Jeyne Lannister, woman
+Tywin Lannister, man
+Tywin Lannister, married, Joanna Lannister
+Joanna Lannister, woman
+Tywin Lannister, father, Cersei Lannister
+Cersei Lannister, woman
+Joanna Lannister, mother, Cersei Lannister
+Tywin Lannister, father, Tyrion Lannister
+Tyrion Lannister, man
+Joanna Lannister, mother, Tyrion Lannister
+Tywin Lannister, father, Jaime Lannister
+Jaime Lannister, man
+Joanna Lannister, mother, Jaime Lannister
+Cersei Lannister, mother, Joffrey Baratheon
+Joffrey Baratheon, man
+Jaime Lannister, father, Joffrey Baratheon
+Cersei Lannister, mother, Myrcella Baratheon
+Myrcella Baratheon, woman
+Jaime Lannister, father, Myrcella Baratheon
+Cersei Lannister, mother, Tommen Baratheon
+Tommen Baratheon, man
+Jaime Lannister, father, Tommen Baratheon
+Tommen Baratheon, married, Margaery Tyrell
+Tytos Lannister, father, Kevan Lannister
+Jeyne Lannister, mother Kevan Lannister
+Kevan Lannister, married, Dorna Lannister
+Kevan Lannister, father, Lancel Lannister
+Kevan Lannister, father, Martyn Lannister
+Kevan Lannister, father, Willem Lannister
+Kevan Lannister, man
+Lancel Lannister, man
+Martyn Lannister, man
+Willem Lannister, man
+Jeyne Lannister, woman
+Dorna Lannister, woman
+Dorna Lannister, mother, Lancel Lannister
+Dorna Lannister, mother, Martyn Lannister
+Dorna Lannister, mother, Willem Lannister
+Steffon Baratheon, man
+Steffon Baratheon, father, Robert Baratheon
+Cassana Baratheon, mother, Robert Baratheon
+Cassana Baratheon, woman
+Robert Baratheon, man
+Robert Baratheon, father, Gendry
+Gendry, man
+Steffon Baratheon, father, Stannis Baratheon
+Steffon Baratheon, father, Renly Baratheon
+Stannis Baratheon, man
+Renly Baratheon, man
+Cassana Baratheon, mother, Stannis Baratheon
+Cassana Baratheon, mother, Renly Baratheon
+Stannis Baratheon, married, Selyse Baratheon
+Stannis Baratheon, father, Shireen Baratheon
+Selyse Baratheon, woman
+Selyse Baratheon, mother, Shireen Baratheon
+Shireen Baratheon, woman
+Luthor Tyrell, man
+Luthor Tyrell, married, Olenna Tyrell
+Olenna Tyrell, woman
+Mace Tyrell, man
+Luthor Tyrell, father, Mace Tyrell
+Olenna Tyrell, mother, Mace Tyrell
+Mace Tyrell, married, Alerie Tyrell
+Alerie Tyrell, woman
+Mace Tyrell, father, Margaery Tyrell
+Margaery Tyrell, woman
+Margaery Tyrell, married, Tommen Baratheon
+Alerie Tyrell, mother, Margaery Tyrell
+Mace Tyrell, father, Loras Tyrell
+Loras Tyrell, man
+Alerie Tyrell, mother, Loras Tyrell
+Rulling Princess Martell of Dorne, woman
+Rulling Princess Martell of Dorne, married, Consort of the Princess of Dorne
+Rulling Princess Martell of Dorne, mother, Doran Martell
+Doran Martell, man
+Rulling Princess Martell of Dorne, mother, Elia Martell
+Elia Martell, woman
+Rulling Princess Martell of Dorne, mother, Oberyn Martell
+Oberyn Martell, man
+Consort of the Princess of Dorne, father, Doran Martell
+Consort of the Princess of Dorne, father, Elia Martell
+Consort of the Princess of Dorne, father, Oberyn Martell
+Doran Martell, father, Trystane Martell
+Trystane Martell, man
+Oberyn Martell, father, Obara Sand
+Oberyn Martell, father, Nymeria Sand
+Oberyn Martell, father, Tyene Sand
+Obara Sand, woman
+Nymeria Sand, woman
+Tyene Sand, woman
+Elaria Sand, woman
+Elaria Sand, mother, Tyene Sand
+Joffrey Baratheon, killed, Eddard Stark
+Aerys II Targaryen, killed, Rickard Stark
+Aerys II Targaryen, killed, Brandon Stark
+Unknown, killed, Lyarra Stark
+Walder Frey, man
+Walder Frey, married, Kitty Frey
+Kitty Frey, woman
+Walder Frey, father, Stevron Frey
+Stevron Frey, man
+Walder Frey, father, Lame Lothar Frey
+Lame Lothar Frey, man
+Walder Frey, father, Roslin Frey
+Roslin Frey, woman
+Walder Frey, father, Black Walder Rivers
+Black Walder Rivers, man
+Walder Frey, father, Ryger Rivers
+Ryger Rivers, man
+Walder Frey, father, Unknown Son
+Unknown Son, man
+Unknown Son, father, Fat Walda Frey
+Fat Walda Frey, woman
+Fat Walda Frey, married, Roose Bolton
+Roose Bolton, man
+Roslin Frey, married, Edmure Tully
+Roslin Frey, mother, Newborn Tully
+Edmure Tully, father, Newborn Tully
+Arya Stark, killed, Walder Frey
+Arya Stark, killed, Stevron Frey
+Arya Stark, killed, Lame Lothar Frey
+Arya Stark, killed, Black Walder Rivers
+Arya Stark, killed, Ryger Rivers
+Ramsay Bolton, killed, Fat Walda Frey
+Ramsay Bolton, killed, Newborn Bolton
+Roose Bolton, father, Ramsay Bolton
+Roose Bolton, father, Newborn Bolton
+Fat Walda Frey, mother, Newborn Bolton
+Walder Frey, killed, Catelyn Tully
+Unknown, killed, Lyanna Stark
+Robert Baratheon, killed, Rhaegar Targaryen
+Unknown, killed, Benjen Stark
+Ramsay Bolton, killed, Rickon Stark
+Walder Frey, killed, Robb Stark
+Walder Frey, killed, Talisa Stark
+Sansa Stark, killed, Ramsay Bolton
+Unknown, killed, Tytos Lannister
+Unknown, killed, Jeyne Lannister
+Tyrion Lannister, killed, Tywin Lannister
+Unknown, killed, Joanna Lannister
+Cersei Lannister, killed, Kevan Lannister
+Cersei Lannister, killed, Dorna Lannister
+Cersei Lannister, killed, Lancel Lannister
+Unknown, killed, Robert Baratheon
+Rickard Karstark, killed, Martyn Lannister
+Rickard Karstark, killed, Willem Lannister
+Olenna Tyrell, killed, Joffrey Baratheon
+Cersei Lannister, killed, Margaery Tyrell
+Elaria Sand, killed, Myrcella Baratheon
+Unknown, killed, Tommen Baratheon
+Rickard Karstark, man
+Rickard Karstark, father, Harrion Karstark
+Rickard Karstark, father, Torrhen Karstark
+Rickard Karstark, father, Harald Karstark
+Harrion Karstark, man
+Torrhen Karstark, man
+Harald Karstark, man
+Harald Karstark, father, Alys Kastark
+Alys Kastark, woman
+Jaime Lannister, killed, Harrion Karstark
+Jaime Lannister, killed, Torrhen Karstark
+Jon Snow, killed, Harald Karstark
+Robb Stark, killed, Rickard Karstark
+Gregor Clegane, man
+Gregor Clegane, killed, Oberyn Martell
+Gregor Clegane, killed, Elia Martell
+Gregor Clegane, killed, Rhaenys Targaryen
+Gregor Clegane, killed, Aegon Targaryen
+Unknown, killed, Aegon V Targaryen
+Unknown, killed, Aemon Targaryen
+Unknown, killed, Aerion Targaryen
+Jaime Lannister, killed, Aerys II Targaryen
+Unknown, killed, Alerie Tyrell
+Jaime Lannister, killed, Brynden Tully
+Unknown, killed, Cassana Baratheon
+Unknown, killed, Consort of the Princess of Dorne
+Unknown, killed, Dareon Targaryen
+Elaria Sand, killed, Doran Martell
+Unknown, killed, Hoster Tully
+Unknown, killed, Jeyne Lannister
+Petyr Baelish, man
+Petyr Baelish, killed, Jon Arryn
+Cersei Lannister, killed, Loras Tyrell
+Unknown, killed, Luthor Tyrell
+Petyr Baelish, killed, Lysa Arryn
+Cersei Lannister, killed, Mace Tyrell
+Unknown, killed, Minisa Tully
+Euron Greyjoy, killed, Nymeria Sand
+Euron Greyjoy, killed, Obara Sand
+Jaime Lannister, killed, Olenna Tyrell
+Arya Stark, killed, Petyr Baelish
+Unknown, killed, Renly Baratheon
+Unknown, killed, Rhaella Targaryen
+Ramsay Bolton, killed, Roose Bolton
+Unknown, killed, Rulling Princess Martell of Dorne
+Unknown, killed, Selyse Baratheon
+Stannis Baratheon, killed, Shireen Baratheon
+Brienne of Tarth, woman
+Brienne of Tarth, killed, Stannis Baratheon
+Unknown, killed, Steffon Baratheon
+Obara Sand, killed, Trystane Martell
+Cersei Lannister, killed, Tyene Sand
+Quellon Greyjoy, man
+Quellon Greyjoy, father, Balon Greyjoy
+Quellon Greyjoy, father, Euron Greyjoy
+Quellon Greyjoy, father, Aeron Greyjoy
+Balon Greyjoy, man
+Euron Greyjoy, man
+Aeron Greyjoy, man
+Alannys Greyjoy, woman
+Quellon Greyjoy, married, Alannys Greyjoy
+Euron Greyjoy, killed, Balon Greyjoy
+Unknown, killed, Quellon Greyjoy
+Unknown, killed, Alannys Greyjoy
+Balon Greyjoy, father, Rodrik Greyjoy
+Balon Greyjoy, father, Maron Greyjoy
+Balon Greyjoy, father, Yara Greyjoy
+Balon Greyjoy, father, Theon Greyjoy
+Alannys Greyjoy, mother, Rodrik Greyjoy
+Alannys Greyjoy, mother, Maron Greyjoy
+Alannys Greyjoy, mother, Yara Greyjoy
+Alannys Greyjoy, mother, Theon Greyjoy
+Rodrik Greyjoy, man
+Maron Greyjoy, man
+Yara Greyjoy, woman
+Theon Greyjoy, man
+Unknown, killed, Rodrik Greyjoy
+Unknown, killed, Maron Greyjoy
+Drogo, man
+Drogo, killed, Viserys Targaryen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

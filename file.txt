@@ -1,0 +1,103 @@
+Name: Aegon Targaryen Gender: man Mother: Elia Martell Father: Rhaegar Targaryen Married to Not Married or Unknown Status: killed by Gregor Clegane
+Name: Aegon V Targaryen Gender: man Mother: Unknown Father: Maekar Targaryen Married to Not Married or Unknown Status: Dead
+Name: Aemon Targaryen Gender: man Mother: Unknown Father: Maekar Targaryen Married to Not Married or Unknown Status: Dead
+Name: Aerion Targaryen Gender: man Mother: Unknown Father: Maekar Targaryen Married to Not Married or Unknown Status: Dead
+Name: Aeron Greyjoy Gender: man Mother: Unknown Father: Quellon Greyjoy Married to Not Married or Unknown Status: Alive
+Name: Aerys II Targaryen Gender: man Mother: Unknown Father: Aegon V Targaryen Married to Not Married or Unknown Status: killed by Jaime Lannister
+Name: Alannys Greyjoy Gender: woman Mother: Unknown Father: Unknown Married to Quellon Greyjoy Status: Dead
+Name: Alerie Tyrell Gender: woman Mother: Unknown Father: Unknown Married to Mace Tyrell Status: Dead
+Name: Alys Kastark Gender: woman Mother: Unknown Father: Harald Karstark Married to Not Married or Unknown Status: Alive
+Name: Arya Stark Gender: woman Mother: Catelyn Tully Father: Eddard Stark Married to Not Married or Unknown Status: Alive
+Name: Balon Greyjoy Gender: man Mother: Unknown Father: Quellon Greyjoy Married to Not Married or Unknown Status: killed by Euron Greyjoy
+Name: Benjen Stark Gender: man Mother: Lyarra Stark Father: Rickard Stark Married to Not Married or Unknown Status: Dead
+Name: Black Walder Rivers Gender: man Mother: Unknown Father: Walder Frey Married to Not Married or Unknown Status: killed by Arya Stark
+Name: Bran Stark Gender: man Mother: Catelyn Tully Father: Eddard Stark Married to Not Married or Unknown Status: Alive
+Name: Brandon Stark Gender: man Mother: Lyarra Stark Father: Rickard Stark Married to Not Married or Unknown Status: killed by Aerys II Targaryen
+Name: Brienne of Tarth Gender: woman Mother: Unknown Father: Unknown Married to Not Married or Unknown Status: Alive
+Name: Brynden Tully Gender: man Mother: Unknown Father: Unknown Married to Not Married or Unknown Status: killed by Jaime Lannister
+Name: Cassana Baratheon Gender: woman Mother: Unknown Father: Unknown Married to Not Married or Unknown Status: Dead
+Name: Catelyn Tully Gender: woman Mother: Unknown Father: Hoster Tully Married to Eddard Stark Status: killed by Walder Frey
+Name: Cersei Lannister Gender: woman Mother: Joanna Lannister Father: Tywin Lannister Married to Not Married or Unknown Status: Alive
+Name: Consort of the Princess of Dorne Gender: Unknown Mother: Unknown Father: Unknown Married to Rulling Princess Martell of Dorne Status: Dead
+Name: Daenerys Targaryen Gender: woman Mother: Rhaella Targaryen Father: Aerys II Targaryen Married to Not Married or Unknown Status: Alive
+Name: Dareon Targaryen Gender: man Mother: Unknown Father: Aegon V Targaryen Married to Not Married or Unknown Status: Dead
+Name: Doran Martell Gender: man Mother: Rulling Princess Martell of Dorne Father: Consort of the Princess of Dorne Married to Not Married or Unknown Status: killed by Elaria Sand
+Name: Dorna Lannister Gender: woman Mother: Unknown Father: Unknown Married to Kevan Lannister Status: killed by Cersei Lannister
+Name: Drogo Gender: man Mother: Unknown Father: Unknown Married to Not Married or Unknown Status: Alive
+Name: Duncan Targaryen Gender: man Mother: Unknown Father: Aegon V Targaryen Married to Not Married or Unknown Status: Alive
+Name: Eddard Stark Gender: man Mother: Lyarra Stark Father: Rickard Stark Married to Catelyn Tully Status: killed by Joffrey Baratheon
+Name: Edmure Tully Gender: Unknown Mother: Unknown Father: Hoster Tully Married to Roslin Frey Status: Alive
+Name: Elaria Sand Gender: woman Mother: Unknown Father: Unknown Married to Not Married or Unknown Status: Alive
+Name: Elia Martell Gender: woman Mother: Rulling Princess Martell of Dorne Father: Consort of the Princess of Dorne Married to Rhaegar Targaryen Status: Alive
+Name: Euron Greyjoy Gender: man Mother: Unknown Father: Quellon Greyjoy Married to Not Married or Unknown Status: Alive
+Name: Fat Walda Frey Gender: woman Mother: Unknown Father: Unknown Son Married to Roose Bolton Status: killed by Ramsay Bolton
+Name: Gendry Gender: man Mother: Unknown Father: Robert Baratheon Married to Not Married or Unknown Status: Alive
+Name: Gregor Clegane Gender: man Mother: Unknown Father: Unknown Married to Not Married or Unknown Status: Alive
+Name: Harald Karstark Gender: man Mother: Unknown Father: Rickard Karstark Married to Not Married or Unknown Status: killed by Jon Snow
+Name: Harrion Karstark Gender: man Mother: Unknown Father: Rickard Karstark Married to Not Married or Unknown Status: killed by Jaime Lannister
+Name: Hoster Tully Gender: man Mother: Unknown Father: Unknown Married to Minisa Tully Status: Dead
+Name: Jaime Lannister Gender: man Mother: Joanna Lannister Father: Tywin Lannister Married to Not Married or Unknown Status: Alive
+Name: Jeyne Lannister Gender: woman Mother: Unknown Father: Unknown Married to Tytos Lannister Status: Dead
+Name: Joanna Lannister Gender: woman Mother: Unknown Father: Unknown Married to Tywin Lannister Status: Dead
+Name: Joffrey Baratheon Gender: man Mother: Cersei Lannister Father: Jaime Lannister Married to Not Married or Unknown Status: killed by Olenna Tyrell
+Name: Jon Arryn Gender: man Mother: Unknown Father: Unknown Married to Lysa Arryn Status: killed by Petyr Baelish
+Name: Jon Snow Gender: Unknown Mother: Lyanna Stark Father: Rhaegar Targaryen Married to Not Married or Unknown Status: Alive
+Name: Kevan Lannister Gender: man Mother: Unknown Father: Tytos Lannister Married to Dorna Lannister Status: killed by Cersei Lannister
+Name: Kitty Frey Gender: woman Mother: Unknown Father: Unknown Married to Walder Frey Status: Alive
+Name: Lame Lothar Frey Gender: man Mother: Unknown Father: Walder Frey Married to Not Married or Unknown Status: killed by Arya Stark
+Name: Lancel Lannister Gender: man Mother: Dorna Lannister Father: Kevan Lannister Married to Not Married or Unknown Status: killed by Cersei Lannister
+Name: Loras Tyrell Gender: man Mother: Alerie Tyrell Father: Mace Tyrell Married to Not Married or Unknown Status: killed by Cersei Lannister
+Name: Luthor Tyrell Gender: man Mother: Unknown Father: Unknown Married to Olenna Tyrell Status: Dead
+Name: Lyanna Stark Gender: woman Mother: Lyarra Stark Father: Rickard Stark Married to Not Married or Unknown Status: Dead
+Name: Lyarra Stark Gender: woman Mother: Unknown Father: Unknown Married to Rickard Stark Status: Dead
+Name: Lysa Arryn Gender: woman Mother: Unknown Father: Hoster Tully Married to Jon Arryn Status: killed by Petyr Baelish
+Name: Mace Tyrell Gender: man Mother: Olenna Tyrell Father: Luthor Tyrell Married to Alerie Tyrell Status: killed by Cersei Lannister
+Name: Margaery Tyrell Gender: woman Mother: Alerie Tyrell Father: Mace Tyrell Married to Tommen Baratheon Status: killed by Cersei Lannister
+Name: Maron Greyjoy Gender: man Mother: Alannys Greyjoy Father: Balon Greyjoy Married to Not Married or Unknown Status: Dead
+Name: Martyn Lannister Gender: man Mother: Dorna Lannister Father: Kevan Lannister Married to Not Married or Unknown Status: killed by Rickard Karstark
+Name: Minisa Tully Gender: woman Mother: Unknown Father: Unknown Married to Hoster Tully Status: Dead
+Name: Myrcella Baratheon Gender: woman Mother: Cersei Lannister Father: Jaime Lannister Married to Not Married or Unknown Status: killed by Elaria Sand
+Name: Newborn Bolton Gender: Unknown Mother: Fat Walda Frey Father: Roose Bolton Married to Not Married or Unknown Status: killed by Ramsay Bolton
+Name: Newborn Tully Gender: Unknown Mother: Roslin Frey Father: Edmure Tully Married to Not Married or Unknown Status: Alive
+Name: Nymeria Sand Gender: woman Mother: Unknown Father: Oberyn Martell Married to Not Married or Unknown Status: killed by Euron Greyjoy
+Name: Obara Sand Gender: woman Mother: Unknown Father: Oberyn Martell Married to Not Married or Unknown Status: killed by Euron Greyjoy
+Name: Oberyn Martell Gender: man Mother: Rulling Princess Martell of Dorne Father: Consort of the Princess of Dorne Married to Not Married or Unknown Status: killed by Gregor Clegane
+Name: Olenna Tyrell Gender: woman Mother: Unknown Father: Unknown Married to Luthor Tyrell Status: killed by Jaime Lannister
+Name: Petyr Baelish Gender: man Mother: Unknown Father: Unknown Married to Not Married or Unknown Status: killed by Arya Stark
+Name: Quellon Greyjoy Gender: man Mother: Unknown Father: Unknown Married to Alannys Greyjoy Status: Dead
+Name: Ramsay Bolton Gender: man Mother: Unknown Father: Roose Bolton Married to Sansa Stark Status: killed by Sansa Stark
+Name: Renly Baratheon Gender: man Mother: Cassana Baratheon Father: Steffon Baratheon Married to Not Married or Unknown Status: Dead
+Name: Rhaegar Targaryen Gender: man Mother: Rhaella Targaryen Father: Aerys II Targaryen Married to Elia Martell Status: killed by Robert Baratheon
+Name: Rhaella Targaryen Gender: woman Mother: Unknown Father: Aegon V Targaryen Married to Not Married or Unknown Status: Dead
+Name: Rhaenys Targaryen Gender: woman Mother: Elia Martell Father: Rhaegar Targaryen Married to Not Married or Unknown Status: killed by Gregor Clegane
+Name: Rickard Karstark Gender: man Mother: Unknown Father: Unknown Married to Not Married or Unknown Status: killed by Robb Stark
+Name: Rickard Stark Gender: man Mother: Unknown Father: Unknown Married to Lyarra Stark Status: killed by Aerys II Targaryen
+Name: Rickon Stark Gender: man Mother: Catelyn Tully Father: Eddard Stark Married to Not Married or Unknown Status: killed by Ramsay Bolton
+Name: Robb Stark Gender: man Mother: Catelyn Tully Father: Eddard Stark Married to Talisa Stark Status: killed by Walder Frey
+Name: Robert Baratheon Gender: man Mother: Cassana Baratheon Father: Steffon Baratheon Married to Not Married or Unknown Status: Dead
+Name: Robin Arryn Gender: man Mother: Lysa Arryn Father: Jon Arryn Married to Not Married or Unknown Status: Alive
+Name: Rodrik Greyjoy Gender: man Mother: Alannys Greyjoy Father: Balon Greyjoy Married to Not Married or Unknown Status: Dead
+Name: Roose Bolton Gender: man Mother: Unknown Father: Unknown Married to Fat Walda Frey Status: killed by Ramsay Bolton
+Name: Roslin Frey Gender: woman Mother: Unknown Father: Walder Frey Married to Edmure Tully Status: Alive
+Name: Rulling Princess Martell of Dorne Gender: woman Mother: Unknown Father: Unknown Married to Consort of the Princess of Dorne Status: Dead
+Name: Ryger Rivers Gender: man Mother: Unknown Father: Walder Frey Married to Not Married or Unknown Status: killed by Arya Stark
+Name: Sansa Stark Gender: woman Mother: Catelyn Tully Father: Eddard Stark Married to Ramsay Bolton Status: Alive
+Name: Selyse Baratheon Gender: woman Mother: Unknown Father: Unknown Married to Stannis Baratheon Status: Dead
+Name: Shireen Baratheon Gender: woman Mother: Selyse Baratheon Father: Stannis Baratheon Married to Not Married or Unknown Status: killed by Stannis Baratheon
+Name: Stannis Baratheon Gender: man Mother: Cassana Baratheon Father: Steffon Baratheon Married to Selyse Baratheon Status: killed by Brienne of Tarth
+Name: Steffon Baratheon Gender: man Mother: Unknown Father: Unknown Married to Not Married or Unknown Status: Dead
+Name: Stevron Frey Gender: man Mother: Unknown Father: Walder Frey Married to Not Married or Unknown Status: killed by Arya Stark
+Name: Talisa Stark Gender: woman Mother: Unknown Father: Unknown Married to Robb Stark Status: killed by Walder Frey
+Name: Theon Greyjoy Gender: man Mother: Alannys Greyjoy Father: Balon Greyjoy Married to Not Married or Unknown Status: Alive
+Name: Tommen Baratheon Gender: man Mother: Cersei Lannister Father: Jaime Lannister Married to Margaery Tyrell Status: Dead
+Name: Torrhen Karstark Gender: man Mother: Unknown Father: Rickard Karstark Married to Not Married or Unknown Status: killed by Jaime Lannister
+Name: Trystane Martell Gender: man Mother: Unknown Father: Doran Martell Married to Not Married or Unknown Status: killed by Obara Sand
+Name: Tyene Sand Gender: woman Mother: Elaria Sand Father: Oberyn Martell Married to Not Married or Unknown Status: killed by Cersei Lannister
+Name: Tyrion Lannister Gender: man Mother: Joanna Lannister Father: Tywin Lannister Married to Not Married or Unknown Status: Alive
+Name: Tytos Lannister Gender: man Mother: Unknown Father: Unknown Married to Jeyne Lannister Status: Dead
+Name: Tywin Lannister Gender: man Mother: Jeyne Lannister Father: Tytos Lannister Married to Joanna Lannister Status: killed by Tyrion Lannister
+Name: Unknown Son Gender: man Mother: Unknown Father: Walder Frey Married to Not Married or Unknown Status: Alive
+Name: Viserys Targaryen Gender: man Mother: Rhaella Targaryen Father: Aerys II Targaryen Married to Not Married or Unknown Status: killed by Drogo
+Name: Walder Frey Gender: man Mother: Unknown Father: Unknown Married to Kitty Frey Status: killed by Arya Stark
+Name: Willem Lannister Gender: man Mother: Dorna Lannister Father: Kevan Lannister Married to Not Married or Unknown Status: killed by Rickard Karstark
+Name: Yara Greyjoy Gender: woman Mother: Alannys Greyjoy Father: Balon Greyjoy Married to Not Married or Unknown Status: Alive

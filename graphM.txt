@@ -1,0 +1,17 @@
+digraph GoT {
+rankdir=LR;
+size="12"
+node [shape = rectangle];
+"Eddard Stark" -> "Catelyn Tully" [label="married"];
+"Hoster Tully" -> "Minisa Tully" [label="married"];
+"Jon Arryn" -> "Lysa Arryn" [label="married"];
+"Luthor Tyrell" -> "Olenna Tyrell" [label="married"];
+"Mace Tyrell" -> "Alerie Tyrell" [label="married"];
+"Ramsay Bolton" -> "Sansa Stark" [label="married"];
+"Rhaegar Targaryen" -> "Lyanna Stark" [label="married"];
+"Rickard Stark" -> "Lyarra Stark" [label="married"];
+"Robb Stark" -> "Talisa Stark" [label="married"];
+"Stannis Baratheon" -> "Selyse Baratheon" [label="married"];
+"Tommen Baratheon" -> "Margaery Tyrell" [label="married"];
+"Tywin Lannister" -> "Joanna Lannister" [label="married"];
+}

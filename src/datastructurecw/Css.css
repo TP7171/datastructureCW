@@ -1,0 +1,67 @@
+.btn{
+    -fx-background-color: linear-gradient(#2cade0,#131414, #d8460d);
+    -fx-text-fill:#FFFFFF;
+    -fx-font-family:"Times New Roman", Times, serif;
+    -fx-background-radius:6;
+    -fx-font-size: 17px;
+    -fx-font-weight: bold;
+}
+
+.menu-bar{
+  -fx-background-color: #352d2d;
+  -fx-border-color:  #f0cd90;
+ -fx-border-width: 2
+  
+
+}
+
+.menu:hover{
+    -fx-background-color: rgb(51, 51, 51);
+}
+
+.menu-bar .label {
+    -fx-font-size: 25 pt;
+    -fx-font-family: "Segoe UI Light";
+    -fx-text-fill: #FFFFFF;
+
+}
+
+.menu-item .label{
+     -fx-font-size: 20 pt;
+    -fx-label-line-length: 8;
+     -fx-background-color: #e5d6a5;
+     -fx-text-fill: #000000;
+}
+
+.background {
+    -fx-background-color: #1d1d1d;
+}
+
+
+.box {
+    -fx-padding: 5 22 5 22;   
+    -fx-border-color: #f0cd90;
+    -fx-border-width: 2;
+    -fx-background-radius: 0;
+    -fx-background-color: linear-gradient(#ad6034,#e5c089, #161615);
+    -fx-font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+    -fx-font-size: 12pt;
+    -fx-text-fill: #2d2926;
+    -fx-background-insets: 0 0 0 0, 0, 1, 2;
+}
+.box-1 {
+    -fx-border-color: #f0cd90;
+    -fx-background-color: linear-gradient(#ad6034,#e5c089, #161615);
+    -fx-font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+    -fx-text-fill: #2d2926;
+    -fx-font-size: 10pt;
+    
+}
+.Abox {
+    -fx-font: 18px Tahoma;
+    -fx-fill: linear-gradient(from 0% 0% to 100% 200%, repeat, aqua 0%, red 50%);
+    -fx-stroke: black;
+    -fx-stroke-width: 1;
+}
+
+

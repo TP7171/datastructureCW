@@ -1,0 +1,13 @@
+graph GoT {
+rankdir=LR;
+size="8,5"
+"Eddard Stark" -- "Catelyn Tully" [label="Married to"];
+"Catelyn Tully" -- "Eddard Stark" [label="Married to"];
+"Minisa Tully" -- "Hoster Tully" [label="Married to"];
+"Lysa Arryn" -- "Jon Arryn" [label="Married to"];
+"Rhaegar Targaryen" -- "Lyanna Stark" [label="Married to"];
+"Jon Arryn" -- "Lysa Arryn" [label="Married to"];
+"Hoster Tully" -- "Minisa Tully" [label="Married to"];
+"Sansa Stark" -- "Ramsay Bolton" [label="Married to"];
+"Ramsay Bolton" -- "Sansa Stark" [label="Married to"];
+}
